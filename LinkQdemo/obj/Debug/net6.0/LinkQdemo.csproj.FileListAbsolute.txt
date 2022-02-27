@@ -1,0 +1,15 @@
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\bin\Debug\net6.0\LinkQdemo.exe
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\bin\Debug\net6.0\LinkQdemo.deps.json
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\bin\Debug\net6.0\LinkQdemo.runtimeconfig.json
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\bin\Debug\net6.0\LinkQdemo.dll
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\bin\Debug\net6.0\ref\LinkQdemo.dll
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\bin\Debug\net6.0\LinkQdemo.pdb
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\obj\Debug\net6.0\LinkQdemo.csproj.AssemblyReference.cache
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\obj\Debug\net6.0\LinkQdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\obj\Debug\net6.0\LinkQdemo.AssemblyInfoInputs.cache
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\obj\Debug\net6.0\LinkQdemo.AssemblyInfo.cs
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\obj\Debug\net6.0\LinkQdemo.csproj.CoreCompileInputs.cache
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\obj\Debug\net6.0\LinkQdemo.dll
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\obj\Debug\net6.0\ref\LinkQdemo.dll
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\obj\Debug\net6.0\LinkQdemo.pdb
+C:\Users\darsh\source\repos\LinkQdemo\LinkQdemo\obj\Debug\net6.0\LinkQdemo.genruntimeconfig.cache

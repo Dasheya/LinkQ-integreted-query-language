@@ -1,0 +1,15 @@
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\bin\Debug\net6.0\ProductReviewManagementWithLinq.exe
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\bin\Debug\net6.0\ProductReviewManagementWithLinq.deps.json
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\bin\Debug\net6.0\ProductReviewManagementWithLinq.runtimeconfig.json
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\bin\Debug\net6.0\ProductReviewManagementWithLinq.dll
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\bin\Debug\net6.0\ref\ProductReviewManagementWithLinq.dll
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\bin\Debug\net6.0\ProductReviewManagementWithLinq.pdb
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\obj\Debug\net6.0\ProductReviewManagementWithLinq.csproj.AssemblyReference.cache
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\obj\Debug\net6.0\ProductReviewManagementWithLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\obj\Debug\net6.0\ProductReviewManagementWithLinq.AssemblyInfoInputs.cache
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\obj\Debug\net6.0\ProductReviewManagementWithLinq.AssemblyInfo.cs
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\obj\Debug\net6.0\ProductReviewManagementWithLinq.csproj.CoreCompileInputs.cache
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\obj\Debug\net6.0\ProductReviewManagementWithLinq.dll
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\obj\Debug\net6.0\ref\ProductReviewManagementWithLinq.dll
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\obj\Debug\net6.0\ProductReviewManagementWithLinq.pdb
+C:\Users\darsh\source\repos\LinkQdemo\ProductReviewManagementWithLinq\obj\Debug\net6.0\ProductReviewManagementWithLinq.genruntimeconfig.cache
